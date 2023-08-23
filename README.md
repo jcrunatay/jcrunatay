@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from Montreal</h3>
+<h3>A passionate frontend developer from Montreal</h3>
+
+[![Portfolio](https://github.com/jcrunatay/jcrunatay/blob/main/portfolio_img.png "GitHub Logo")](https://github.com/jcrunatay/Portfolio)
 
 
 
