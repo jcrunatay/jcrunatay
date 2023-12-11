@@ -19,3 +19,4 @@
 <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30px"/> 
 <img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30px"/> 
 <img align="left" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30px"/> 
+<img align="left" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" alt="tailwind" width="30px"/> 
