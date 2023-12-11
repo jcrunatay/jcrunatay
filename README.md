@@ -2,7 +2,7 @@
 
 <h3>A passionate Front-end developer from Montreal</h3>
 
-[![Portfolio](https://github.com/jcrunatay/jcrunatay/blob/main/portfolio_img.png "Portfolio")](https://jcrunatay.github.io/Portfolio/)
+[![portfolio_v2](https://github.com/jcrunatay/portfolio_v2/blob/main/public/images/project-output-img.png "portfolio_v2")](https://jcrunatay.github.io/portfolio_v2/)
 
 
 
